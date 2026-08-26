@@ -1,4 +1,6 @@
-![Valbuena Lab Logo](images/Designer.pngStructural Biophysics and Molecular Engineering
+<p align="center">
+  <img src="images/logo./p>
+    
 # Valbuena Lab
 
 ## Structural Biophysics and Molecular Engineering
