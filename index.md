@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="images/Designer.png/p>
-    
+!mages/Designer.png    
 # Valbuena Lab
 
 ## Structural Biophysics and Molecular Engineering
