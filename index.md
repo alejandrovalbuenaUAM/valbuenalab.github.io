@@ -1,4 +1,4 @@
-!mages/Designer.png    
+images/Designer.png    
 # Valbuena Lab
 
 ## Structural Biophysics and Molecular Engineering
